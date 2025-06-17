@@ -13,8 +13,6 @@ import android.widget.RemoteViews
 import androidx.core.app.NotificationCompat
 
 object CustomNotificationsManager {
-
-    // Create multiple notification channel here using channel list
     fun Context.createNotificationChannel() {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
 

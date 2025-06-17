@@ -16,7 +16,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.apply {
-
             btnOne.setOnClickListener {
                 val channel = CustomNotificationsManager.getChannels()["ch1"]
                 channel?.let { it1 -> showNotification(it1) } //Low
