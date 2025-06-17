@@ -1,7 +1,7 @@
-package com.suresh.notifications
+package com.jay.notifications
 
 import android.app.Application
-import com.suresh.notifications.CustomNotificationsManager.createNotificationChannel
+import com.jay.notifications.CustomNotificationsManager.createNotificationChannel
 
 class App : Application() {
 

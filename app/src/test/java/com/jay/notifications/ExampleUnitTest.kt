@@ -1,4 +1,4 @@
-package com.suresh.notifications
+package com.jay.notifications
 
 import org.junit.Test
 

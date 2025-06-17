@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.suresh.notifications"
+    namespace = "com.jay.notifications"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.suresh.notifications"
+        applicationId = "com.jay.notifications"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

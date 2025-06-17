@@ -1,11 +1,11 @@
-package com.suresh.notifications
+package com.jay.notifications
 
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.suresh.notifications.CustomNotificationsManager.showNotification
-import com.suresh.notifications.databinding.ActivityMainBinding
+import com.jay.notifications.CustomNotificationsManager.showNotification
+import com.jay.notifications.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
