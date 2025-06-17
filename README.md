@@ -47,17 +47,3 @@ The following notification styles are included:
 - Useful for branding and making important alerts visually stand out.
 
 ---
-
-## 🚀 Getting Started
-
-### Requirements
-
-- Android Studio Electric Eel or later
-- Android SDK 21+
-- Kotlin or Java (depending on implementation)
-
-### Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/NotificationStylesDemo.git
